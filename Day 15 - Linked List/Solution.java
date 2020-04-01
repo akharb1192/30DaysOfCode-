@@ -1,4 +1,3 @@
-// github.com/RodneyShag
 
 import java.io.*;
 import java.util.*;
